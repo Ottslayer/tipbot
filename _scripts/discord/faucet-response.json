@@ -20,7 +20,7 @@
 		"source": "https://faqq.info/wiki/But_bitcoin_will_fork"
 	},
 	{
-		"title": "\"BTC can impliment larger Signatures for quantum resistance\"",
+		"title": "\"BTC can implement larger Signatures for quantum resistance\"",
 		"message": "Increasing signature length is not a solution. Example, going 256 to 384 bit curves would mean a quantum computer with 3484 qubits instead of 2330 qubits could break the signature scheme.",
 		"source": "https://faqq.info/wiki/Bitcoin_has_plans_for_this"
 	},
@@ -83,5 +83,10 @@
 		"title": "League of Entropy and the QRL",
 		"message": "Did you know QRL is part of the League of Entropy, helping secure truly random data?",
 		"source": "https://en.wikipedia.org/wiki/League_of_entropy"
+	},
+	{
+		"title": "The Future of QRL",
+		"message": "Did you take a look at our roadmap? We have POS and smart contracts on the horizon!",
+		"source": "https://www.theqrl.org/roadmap/"
 	}
 ]
